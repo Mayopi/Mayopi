@@ -36,8 +36,8 @@ class About extends Me {
 }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi&show_icons=true&theme=onedark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/mayopi)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi&show_icons=true&theme=buefy#gh-light-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/mayopi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi&show_icons=true&theme=buefy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mayopi/mayopi/output/github-contribution-grid-snake-dark.svg" />
