@@ -36,7 +36,8 @@ class About extends Me {
 }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi)](https://github.com/mayopi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi&show_icons=true&theme=onedark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/mayopi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi&show_icons=true&theme=buefy#gh-light-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/mayopi)
 
 <div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mayopi/mayopi/output/github-contribution-grid-snake-dark.svg" />
