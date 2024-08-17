@@ -4,6 +4,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/mayopi/mayopi/master/wave.gif" width="30px" height="30px" />
 
+Im Mayopi!, passionate Tech Enthusiast, constantly exploring the ever-evolving world of technology and seeking innovative solutions. With a deep curiosity and eagerness to learn, I thrive on embracing new challenges and leveraging cutting-edge tools to create impactful and meaningful experiences.
+
 ```typescript
 class About extends Me {
     public function getCurrentWorkplaces(): WorkPlaceType[] {
