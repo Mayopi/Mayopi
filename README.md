@@ -6,7 +6,7 @@
 
 <pre>
 ~> <strong>cat about.txt</strong>
-<I>Im Mayopi!, passionate Tech Enthusiast,<br>constantly exploring the ever-evolving world of technology and seeking innovative solutions.<br>With a deep curiosity and eagerness to learn.<br>I thrive on embracing new challenges and<br>leveraging cutting-edge tools to create impactful and meaningful experiences.</p>
+<p>Im Mayopi!, passionate Tech Enthusiast,<br>constantly exploring the ever-evolving world of technology and seeking innovative solutions.<br>With a deep curiosity and eagerness to learn.<br>I thrive on embracing new challenges and<br>leveraging cutting-edge tools to create impactful and meaningful experiences.</p>
 </pre>
 
 ```typescript
