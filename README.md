@@ -36,6 +36,8 @@ class About extends Me {
 }
 ```
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayopi)](https://github.com/mayopi)
+
 <div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mayopi/mayopi/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
