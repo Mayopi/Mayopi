@@ -14,12 +14,12 @@ class About extends Me {
     public function getCurrentWorkplaces(): WorkPlaceType[] {
         return [
             {
-                "company": "CAZHID",
-                "position": "Front-End Developer"
+                company: "CAZHID",
+                position: "Front-End Developer"
             },
             {
-                "company": "Affandra Solusi Teknologi",
-                "position": "Fullstack Developer"
+                company: "Affandra Solusi Teknologi",
+                position: "Fullstack Developer"
             }
         ];
     }
