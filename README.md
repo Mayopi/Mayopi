@@ -16,6 +16,10 @@ class About extends Me {
             {
                 "company": "CAZHID",
                 "position": "Front-End Developer"
+            },
+            {
+                "company": "Affandra Solusi Teknologi",
+                "position": "Fullstack Developer"
             }
         ];
     }
