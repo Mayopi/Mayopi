@@ -14,11 +14,21 @@
 ### Language And Tools
 
 <div style="display: flex; gap: 12px;">
-    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/typescript.svg" />
-    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/javascript.svg" />
-    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/php.svg" />
-    <img style="width: 35px; height: 35px" src="https://laravel.com/img/logomark.min.svg" />
-    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/nextjs.svg" />
+    <a href="https://en.wikipedia.org/wiki/TypeScript" target="__blank">
+        <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/typescript.svg" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="__blank">
+        <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/javascript.svg" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/PHP" target="__blank">
+        <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/php.svg" />
+    </a>
+    <a href="https://laravel.com/" target="__blank">
+        <img style="width: 35px; height: 35px" src="https://laravel.com/img/logomark.min.svg" />
+    </a>
+    <a href="https://nextjs.org/" target="__blank">
+        <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/nextjs.svg" />
+    </a>
 </div>
 
 ```typescript
