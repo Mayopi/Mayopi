@@ -13,7 +13,13 @@
 
 ### Language And Tools
 
-<!-- <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/typescript.svg" /> <img src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/javascript.svg" /> -->
+<div style="display: flex; gap: 12px;">
+    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/typescript.svg" />
+    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/javascript.svg" />
+    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/php.svg" />
+    <img style="width: 35px; height: 35px" src="https://laravel.com/img/logomark.min.svg" />
+    <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/nextjs.svg" />
+</div>
 
 ```typescript
 class About extends Me {
