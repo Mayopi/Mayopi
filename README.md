@@ -31,6 +31,8 @@
     </a>
 </div>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 ```typescript
 class About extends Me {
     public function getCurrentWorkplaces(): WorkPlaceType[] {
