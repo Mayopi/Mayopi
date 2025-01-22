@@ -29,6 +29,10 @@
     <a href="https://nextjs.org/" target="__blank">
         <img style="width: 35px; height: 35px" src="https://raw.githubusercontent.com/Mayopi/Mayopi/main/assets/language/nextjs.svg" />
     </a>
+    <a href="https://react.dev/" target="__blank">
+        <img style="width: 35px; height: 35px" src="https://react.dev/images/brand/logo_dark.svg" />
+    </a>
+  
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
