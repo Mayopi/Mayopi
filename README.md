@@ -32,6 +32,9 @@
     <a href="https://react.dev/" target="__blank">
         <img style="width: 35px; height: 35px" src="https://react.dev/images/brand/logo_dark.svg" />
     </a>
+    <a href="https://kotlinlang.org/" target="__blank">
+      <img style="width: 35px; height: 35px" src="https://blog.frankel.ch/assets/resources/code-improvement-kotlin/kotlin-1.svg"/>
+    </a>
   
 </div>
 
